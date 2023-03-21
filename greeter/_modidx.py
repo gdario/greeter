@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://gdario.github.io',
                 'git_url': 'https://github.com/gdario/greeter',
                 'lib_path': 'greeter'},
-  'syms': {'greeter.core': {'greeter.core.foo': ('core.html#foo', 'greeter/core.py')}}}
+  'syms': { 'greeter.core': {'greeter.core.foo': ('core.html#foo', 'greeter/core.py')},
+            'greeter.hellosayer': {'greeter.hellosayer.say_hello': ('hellosayer.html#say_hello', 'greeter/hellosayer.py')}}}
