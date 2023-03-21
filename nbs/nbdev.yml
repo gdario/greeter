@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "greeter"
+  site-url: "https://gdario.github.io/greeter"
+  description: "A silly little Python package that says hello."
+  repo-branch: main
+  repo-url: "https://github.com/gdario/greeter"
