@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "greeter",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "greeter",
+    "section": "Install",
+    "text": "Install\npip install greeter"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "greeter",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "hellosayer.html",
+    "href": "hellosayer.html",
+    "title": "HelloSayer",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (name)\n\nThis function says hello\nname: (string) The person we are greeting."
+  }
+]
